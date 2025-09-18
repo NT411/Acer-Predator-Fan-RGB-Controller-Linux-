@@ -1,8 +1,5 @@
 # Acer Predator Fan & RGB Controller (Linux)
 
-### Terminal View 
-![Full Setup Screenshot](Screenshots/desktopView.png)
-
 ## FAN Settings
 ![Fan Control Screenshot](Screenshots/fanMenu.png)
 
