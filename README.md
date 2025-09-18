@@ -1,11 +1,19 @@
 # Acer Predator Fan & RGB Controller (Linux)
 
-## Credits
+### Terminal View 
+![Full Setup Screenshot](Screenshots/desktopView.png)
 
+## FAN Settings
+![Fan Control Screenshot](Screenshots/fanMenu.png)
+
+### RGB Settings
+![RGB Control Screenshot](Screenshots/rgbMenu.png)
+
+## Credits
 This project merges and simplifies work from:
-- [Linux-Acer-Predator-Triton-500-Keyboard-RGB-Fix](#https://github.com/DoStraTech)
-- [acer-predator-turbo-and-rgb-keyboard-linux-module](#https://github.com/JafarAkhondali)
-- [Linux-PredatorSense](#https://github.com/snowyoneill)
+- [Linux-Acer-Predator-Triton-500-Keyboard-RGB-Fix](https://github.com/DoStraTech)
+- [acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali)
+- [Linux-PredatorSense](https://github.com/snowyoneill)
 
 It combines fan and RGB control for **Acer Predator laptops** with a **USB HID per-key keyboard** into a single installer and terminal interface.
 
