@@ -40,8 +40,8 @@ Verified on **Ubuntu** and **Kali** — should work on most Debian-based distros
 
 ---
 
-## 🚀 Installation
-1. Download and unzip this project or clone it.  
+## Installation
+1. Download and unzip.  
 2. Open a terminal and enter the folder:
    ```bash
    cd ACER_RGB_FAN_CONTROL
@@ -76,7 +76,7 @@ This will:
 
 ---
 
-## 🖥️ Usage (Main Script)
+## Usage (Main Script)
 After running:
 ```bash
 sudo python3 main.py
