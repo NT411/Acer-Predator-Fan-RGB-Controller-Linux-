@@ -1,9 +1,9 @@
 # Acer Predator Fan & RGB Controller (Linux)
 
-## FAN Settings
+## UBUNTU 
 ![Fan Control Screenshot](ubuntu.png)
 
-### RGB Settings
+### ARCH 
 ![RGB Control Screenshot](arch.png)
 
 ## Credits
@@ -35,7 +35,7 @@ Bus 003 Device 004: ID 04f2:0117 Chicony Electronics Co., Ltd USB-HID Gaming Key
 - Systemd service to restore RGB on boot/resume
 
 Tested on **Predator PH317-56 Helios 300**  
-Verified on **Ubuntu** and **Kali** — should work on most Debian-based distros  
+Verified on Ubuntu Arch and Kali — should work on most Debian-based distros  
 ⚠️ Other Predator models may also work, but EC byte positions and IDs may vary
 
 ---
@@ -46,9 +46,10 @@ Verified on **Ubuntu** and **Kali** — should work on most Debian-based distros
    ```bash
    cd ACER_RGB_FAN_CONTROL
    ```
-3. Run the installer:
+3. Run the installer ./install.sh or ./archinstall.sh :
    ```bash
-   sudo ./install.sh
+   chmod +x ./install.sh
+   sudo ./install.sh 
    ```
 4. Start the controller:
    ```bash
