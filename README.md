@@ -14,7 +14,7 @@ This project merges and simplifies work from:
 
 It combines fan and RGB control for **Acer Predator laptops** with a **USB HID per-key keyboard** into a single installer and terminal interface.
 
-⚠️ **If you are not using a USB HID per-key keyboard, this will not work for you.**
+**If you are not using a USB HID per-key keyboard, this will not work for you.**
 
 To check if your Predator has a USB HID per-key keyboard, run:
 ```bash
@@ -36,7 +36,7 @@ Bus 003 Device 004: ID 04f2:0117 Chicony Electronics Co., Ltd USB-HID Gaming Key
 
 Tested on **Predator PH317-56 Helios 300**  
 Verified on Ubuntu Arch and Kali — should work on most Debian-based distros  
-⚠️ Other Predator models may also work, but EC byte positions and IDs may vary
+Other Predator models may also work, but EC byte positions and IDs may vary
 
 ---
 
@@ -102,7 +102,7 @@ You’ll see a TUI (terminal interface) with fan & RGB options.
 
 ---
 
-## ⚠️ Known Issues
+## Known Issues
 - If RGB does not light up, check that `fix_keyboard.py` has the correct **Vendor ID** and **Product ID** from your keyboard (`lsusb`).  
 - The install script does not always inject the alias. To fix manually:
 
