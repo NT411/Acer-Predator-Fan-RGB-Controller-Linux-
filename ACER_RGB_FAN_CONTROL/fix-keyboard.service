@@ -1,0 +1,10 @@
+[Unit]
+Description=Fix Predator RGB keyboard at boot and resume
+After=multi-user.target suspend.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/fix_keyboard.py
+
+[Install]
+WantedBy=multi-user.target suspend.target
