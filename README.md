@@ -1,10 +1,10 @@
 # Acer Predator Fan & RGB Controller (Linux)
 
 ## Screenshots  
-**Ubuntu (Fan Control)**  
+**Ubuntu**  
 ![Fan Control Screenshot](ubuntu.png)  
 
-**Arch (RGB Control)**  
+**Arch**  
 ![RGB Control Screenshot](arch.png)  
 
 ---
