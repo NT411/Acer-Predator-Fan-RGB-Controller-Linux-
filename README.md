@@ -2,10 +2,10 @@
 
 ## Screenshots  
 **Ubuntu**  
-![Fan Control Screenshot](ubuntu.png)  
+![Fan Control Screenshot](Screenshots/ubuntu.png)  
 
 **Arch**  
-![RGB Control Screenshot](arch.png)  
+![RGB Control Screenshot](Screenshots/arch.png)  
 
 ---
 
