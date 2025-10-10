@@ -2,10 +2,10 @@
 
 ## Screenshots  
 **Fan Control**  
-![Fan Control Screenshot](Screenshots/fan.png)  
+![Fan Control Screenshot](fan.png)  
 
 **RGB Control**  
-![RGB Control Screenshot](Screenshots/rgb.png)  
+![RGB Control Screenshot](rgb.png)  
 
 ---
 
