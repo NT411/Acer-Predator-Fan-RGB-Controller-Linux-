@@ -1,5 +1,5 @@
 # Acer Predator Fan & RGB Controller (Linux)
-
+Only for Laptops Acer Predator Helios 300 that are running Debian-based distros !
 ## Screenshots  
 **Fan Control**  
 ![Fan Control Screenshot](fan.png)  
