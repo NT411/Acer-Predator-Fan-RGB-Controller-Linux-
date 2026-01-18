@@ -47,7 +47,7 @@ cd ~/Downloads
 
 3. Clone the repository:  
 ```bash
-git clone https://github.com/NT411/Acer-Predator-Fan-RGB-Controller-Linux-.git
+git clone https://github.com/NT411/Acer-Predator-Fan-RGB-Controller-Linux.git
 ```  
 
 5. Enter the main folder:  
